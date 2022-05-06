@@ -4,4 +4,4 @@ This repository contains a Maple project which aims to numerically verify the va
 
 This project was done for the [Master's degree in Computer Science](https://www.informaticamagistrale.unifi.it/) at the [University of Florence](https://www.unifi.it/) as part of exam *B018968 - Progettazione e Analisi di Algoritmi (Design and Analysis of Algorithms)*.
 
-See https://github.com/FrancescoMucci/CS-master-assignments for other projects and assignments done for the Master's degree in Computer Science.
+See https://github.com/FrancescoMucci/CS-thesis-and-assignments for other projects and assignments done for the Bachelor's and Master's degree in Computer Science.
